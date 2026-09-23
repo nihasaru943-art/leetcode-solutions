@@ -14,6 +14,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -38,4 +39,16 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
