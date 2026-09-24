@@ -8,6 +8,7 @@ My LeetCode problem solutions
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1952-three-divisors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -44,6 +45,7 @@ My LeetCode problem solutions
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
