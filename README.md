@@ -35,6 +35,7 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -67,4 +68,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
