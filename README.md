@@ -7,6 +7,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -40,11 +41,13 @@ My LeetCode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -55,6 +58,7 @@ My LeetCode problem solutions
 ## Recursion
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -76,4 +80,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
