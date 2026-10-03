@@ -8,6 +8,7 @@ My LeetCode problem solutions
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -59,6 +60,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
