@@ -37,6 +37,7 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -77,13 +78,23 @@ My LeetCode problem solutions
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
