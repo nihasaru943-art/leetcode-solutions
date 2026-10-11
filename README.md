@@ -17,6 +17,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ My LeetCode problem solutions
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
