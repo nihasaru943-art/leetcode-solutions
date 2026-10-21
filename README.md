@@ -51,6 +51,7 @@ My LeetCode problem solutions
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -69,6 +70,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +101,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
