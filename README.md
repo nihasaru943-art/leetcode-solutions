@@ -40,6 +40,7 @@ My LeetCode problem solutions
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3498-reverse-degree-of-a-string](https://github.com/nihasaru943-art/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
